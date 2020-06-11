@@ -1,2 +1,2 @@
-# SJSA-CG-Challenge-201811
+# SD-CP-Challenge-202006
 Spring Boot Demo App - REST API
